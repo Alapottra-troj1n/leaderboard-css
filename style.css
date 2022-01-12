@@ -167,6 +167,10 @@ color: #562EFF;
     .player, .blog, .course{
         flex-direction: column;
         margin: 0 auto;
+        margin-top: 20px;
+       
+    }
+    .course{
        
     }
 
@@ -188,6 +192,7 @@ color: #562EFF;
         margin: 0 auto;
        
     }
+  
 }
 
 
